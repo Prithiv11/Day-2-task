@@ -1,0 +1,33 @@
+/// List 5 difference between Browser JS(console) v Nodejs ///
+
+* JS is a front-end and Nodejs is a backend
+* JS makes the UI appearance better and the Nodejs makes the request and response properly.
+* JS is our wish however we want to make it better it’s our wish but backend is not like that. depends upon the request the response will be given.
+* JS takes less time and Nods js takes more than JS beause, node depends upon the database .
+* JS depends upon the response of Nodejs but Nodejs's response depends upon the database response
+
+
+
+
+/// watch & summary 5 points ///
+
+* Parsing will happens first -> Dom tree and Css tree
+* Trees will move forward for the next step which is Rendering tree
+* so totally there are 4 trees  
+* Layout computes where a node will be on the screen
+* Painting computes bitmaps and composites on the screen
+
+
+
+
+/// Execute the below code and write your description in txt file ///
+
+typeof(1) - It’s an integer. the output says "number". an integer is a whole number
+typeof(1.1) - the output says "number". in my knowledge it’s an float. float is a value which have decimals.
+typeof('1.1') - the output says "string" . when a value enclosed with single quote or double quotes it was considered as string
+typeof(true) - the output says "boolean" . boolean is a type which have logical outputs "true" and "false" . booleans are used for the conditional situations
+typeof(null) - the output says "object" . null is a keyword which denotes nothing. in my knowledge the value of null is = 0;
+typeof(undefined) - the output says "undefined". undefined says that no value is assigned for the declared variable
+typeof([]) - the output says "object". when a value enclosed with square brackets that was an array. type of an array was object. array is like a container which have group of values
+typeof({}) - the output says "object". when a set of value enclosed with curly brackets that was an object. object is a collection of data with keys 
+typeof(NaN) - the output says "number". but the NaN notes that "this is not a number". when you try to do actions with strings and numbers you may have a chance to get NaN
